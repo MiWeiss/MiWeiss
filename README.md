@@ -1,4 +1,17 @@
-### Hi there 👋
+## Michael 
+
+💻 [Personal Webpage](https://mweiss.ch) 
+📄 [Google Scholar](https://scholar.google.com/citations?user=Aw5x4O4AAAAJ) 
+👷 [LinkedIn](http://linkedin.com/in/michael-weiss-531106136) 
+🎺 [Twitter](http://twitter.com/mweiss_ch) 
+
+Selected repositories which I maintain:
+
+✍️ [docstr-coverage](https://github.com/HunterMcGushion/docstr_coverage): A python documentation coverage checker with more than 280'000 downloads (co-maintained with Hunter McGushion).
+
+🧙‍♂️ [uncertainty-wizard](https://github.com/testingautomated-usi/uncertainty-wizard): Transparent uncertainty quantification for keras Neural Networks, and blazing fast ensembles.
+
+⚖️ [licenseplate](https://github.com/MiWeiss/licenseplate): Software license checks on github. Used by almost no-one, but it was fun to build ;-)
 
 <!--
 **MiWeiss/MiWeiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
