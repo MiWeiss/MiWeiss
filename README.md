@@ -1,11 +1,13 @@
 ## Michael 
 
+#### Michael-Centric Web Pages
+
 💻 [Personal Webpage](https://mweiss.ch) 
 📄 [Google Scholar](https://scholar.google.com/citations?user=Aw5x4O4AAAAJ) 
 👷 [LinkedIn](http://linkedin.com/in/michael-weiss-531106136) 
 🎺 [Twitter](http://twitter.com/mweiss_ch) 
 
-Selected repositories which I maintain:
+#### Selected repositories which I maintain
 
 ✍️ [docstr-coverage](https://github.com/HunterMcGushion/docstr_coverage): A python documentation coverage checker with more than 280'000 downloads (co-maintained with Hunter McGushion).
 
