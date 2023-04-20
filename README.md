@@ -7,7 +7,7 @@
 👷 [LinkedIn](http://linkedin.com/in/michael-weiss-531106136) 
 🎺 [Twitter](http://twitter.com/mweiss_ch) 
 
-#### Selected repositories which I maintain
+#### Selected repositories I maintain
 
 ✂️ [python-bibtexparser](https://github.com/sciunto-org/python-bibtexparser) A very old codebase that I try to keep from falling apart, aiming to keep >1600 open-source dependents satisfied. Simulataneously, I am working on a much improved full-rewrite.
 
