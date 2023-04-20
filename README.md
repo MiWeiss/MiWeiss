@@ -9,7 +9,7 @@
 
 #### Selected repositories which I maintain
 
-✂️ [python-bibtexparser](https://github.com/sciunto-org/python-bibtexparser) A very old codebase that I try to keep from falling apart, aiming to keep >1600 open-source dependents satisfied. Simulataneously, I am working on a much improved next full-rewrite.
+✂️ [python-bibtexparser](https://github.com/sciunto-org/python-bibtexparser) A very old codebase that I try to keep from falling apart, aiming to keep >1600 open-source dependents satisfied. Simulataneously, I am working on a much improved full-rewrite.
 
 ✍️ [docstr-coverage](https://github.com/HunterMcGushion/docstr_coverage): A python documentation coverage checker with more than 280'000 downloads (co-maintained with Hunter McGushion).
 
