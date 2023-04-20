@@ -5,7 +5,7 @@
 💻 [Personal Webpage](https://mweiss.ch) 
 📄 [Google Scholar](https://scholar.google.com/citations?user=Aw5x4O4AAAAJ) 
 👷 [LinkedIn](http://linkedin.com/in/michael-weiss-531106136) 
-🎺 [Twitter](http://twitter.com/mweiss_ch) 
+🎺 [Twitter (abandoned)](http://twitter.com/mweiss_ch) 
 
 #### Selected repositories I maintain
 
