@@ -9,16 +9,16 @@
 
 #### Selected repositories I maintain
 
-✂️ [python-bibtexparser](https://github.com/sciunto-org/python-bibtexparser) A very old codebase that I try to keep from falling apart, aiming to keep >1600 open-source dependents satisfied. Simulataneously, I am working on a much improved full-rewrite.
+✂️ [python-bibtexparser](https://github.com/sciunto-org/python-bibtexparser) A very old codebase that I try to keep from falling apart, aiming to keep thousands of open-source dependents satisfied. Simulataneously, I am working on a much improved full-rewrite (currently in beta).
 
-✍️ [docstr-coverage](https://github.com/HunterMcGushion/docstr_coverage): A python documentation coverage checker with more than 280'000 downloads (co-maintained with Hunter McGushion).
+✍️ [docstr-coverage](https://github.com/HunterMcGushion/docstr_coverage): A python documentation coverage checker with more than half a million downloads (co-maintained with Hunter McGushion).
 
 🧙‍♂️ [uncertainty-wizard](https://github.com/testingautomated-usi/uncertainty-wizard): Transparent uncertainty quantification for keras Neural Networks, and blazing fast ensembles.
 
 ⚖️ [licenseplate](https://github.com/MiWeiss/licenseplate): Software license checks on github. Used by almost no-one, but it was fun to build ;-)
 
 
-Additionally, essentially all research code I have ever written is open sourced, including various reproduction packages (e.g. [1](https://github.com/testingautomated-usi/bisupervised), [2](https://github.com/testingautomated-usi/selforacle), [3](https://github.com/testingautomated-usi/repli-ensemble-bench)) and reusable libraries (e.g. [1](https://github.com/testingautomated-usi/fashion-mnist-c), [2](https://github.com/testingautomated-usi/corrupted-text), [3](https://github.com/testingautomated-usi/dnn-tip), [4](https://github.com/spectrumauctions/)). 
+Additionally, essentially all research code I have ever written is open sourced, including various reproduction packages (e.g. [1](https://github.com/testingautomated-usi/bisupervised), [2](https://github.com/testingautomated-usi/selforacle), [3](https://github.com/testingautomated-usi/repli-stvr2022-uncertainty)) and reusable libraries (e.g. [1](https://github.com/testingautomated-usi/fashion-mnist-c), [2](https://github.com/testingautomated-usi/corrupted-text), [3](https://github.com/testingautomated-usi/dnn-tip), [4](https://github.com/spectrumauctions/)). 
 
 
 <!--
