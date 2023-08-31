@@ -18,6 +18,8 @@
 ⚖️ [licenseplate](https://github.com/MiWeiss/licenseplate): Software license checks on github. Used by almost no-one, but it was fun to build ;-)
 
 
+Additionally, essentially all research code I have ever written is open sourced, including various reproduction packages (e.g. [1](https://github.com/testingautomated-usi/bisupervised), [2](https://github.com/testingautomated-usi/selforacle), [3](https://github.com/testingautomated-usi/repli-ensemble-bench)) and reusable libraries (e.g. [1](https://github.com/testingautomated-usi/fashion-mnist-c), [2](https://github.com/testingautomated-usi/corrupted-text), [3](https://github.com/testingautomated-usi/dnn-tip), [4](https://github.com/spectrumauctions/)). 
+
 
 <!--
 **MiWeiss/MiWeiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
