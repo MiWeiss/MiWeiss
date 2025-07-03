@@ -11,7 +11,7 @@
 
 ✂️ [python-bibtexparser](https://github.com/sciunto-org/python-bibtexparser) A very old codebase that I try to keep from falling apart, aiming to keep thousands of open-source dependents satisfied. Simulataneously, I am working on a much improved full-rewrite (currently in beta).
 
-✍️ [docstr-coverage](https://github.com/HunterMcGushion/docstr_coverage): A python documentation coverage checker with more than half a million downloads (co-maintained with Hunter McGushion).
+✍️ [docstr-coverage](https://github.com/HunterMcGushion/docstr_coverage): A python documentation coverage checker with more than two million downloads (co-maintained with Hunter McGushion).
 
 🧙‍♂️ [uncertainty-wizard](https://github.com/testingautomated-usi/uncertainty-wizard): Transparent uncertainty quantification for keras Neural Networks, and blazing fast ensembles.
 
